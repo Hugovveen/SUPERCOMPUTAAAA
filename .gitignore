@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Build / output
+build/
+dist/
+*.log
+
+# HPC
+slurm-*.out
+*.out
+*.err
+
+# Editors
+.vscode/
+.idea/
